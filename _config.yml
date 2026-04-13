@@ -17,7 +17,7 @@ description: "Marketing Specialist"  # Short site description for search engines
 # -------------------------
 # For a user site, url should match:
 # https://yourusername.github.io
-url: "chauivy22/chauivy"
+url: "https://chauivy.github.io/"
 
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
@@ -26,13 +26,13 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "chauivy22/chauivy"
+repository: "chauivy22/chauivy.github.io/"
 
 # -------------------------
 # Author profile information
 # -------------------------
 author:
-  avatar: "digital-photo-bbf46f113f"    # Profile image file shown in the sidebar/profile area
+  avatar: "digital-photo-bbf46f113f.png"    # Profile image file shown in the sidebar/profile area
   name: "Ngoc Chau Ngo"
   bio: "Marketing intern"
   location: "TX"
